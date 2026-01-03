@@ -53,7 +53,7 @@ The architecture is modular, scalable, and production-oriented, making it suitab
 +-------------------+
 
 📂 Project Structure
-com.harman.eavx.eavx_demo_app
+com.io.utkarsh.vhal_demo_app
 │
 ├── core
 │   └── CarPropertyManager.java
@@ -239,17 +239,3 @@ Adapt and extend according to OEM or project requirements.
 This project demonstrates real-world Android Automotive development patterns using clean architecture, background services, and VHAL integration.
 
 ⭐ If you find this useful, consider starring the repository!
-
-If you want, I can also:
-
-Tailor this README for GitHub trending
-
-Add badges
-
-Simplify for junior developers
-
-Create a diagram image
-
-Write a LinkedIn / resume description
-
-Just tell me 👍
